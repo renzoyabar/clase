@@ -1,8 +1,7 @@
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-
-Este es un texto en **negrita** y este es un texto en *cursiva*. 
+# Fundamentos de Biodiseño Grupo 7
+Repositorio del curso Fundamentos de Biodiseño
+Intregrantes:
+-Mauricio Espinoza Pozo(colaborador)
 
 
 - Elemento 1
