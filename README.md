@@ -1,11 +1,10 @@
-# Fundamentos de Biodiseño Grupo 7
+# Fundamentos de Biodiseño Grupo Individual
 Repositorio del curso Fundamentos de Biodiseño
+
 Intregrantes:
--Mauricio Espinoza Pozo(colaborador)
+- Mauricio Espinoza Pozo(colaborador) mauricio.espinoza.p@upch.pe
+- Rezo Yabar Gonzales(Colaborador) renzo.yabar@upch.pe
+
+![Imagen del Grupo Individual](https://github.com/user-attachments/assets/2f824107-73de-404f-91bd-0e1f65975a72)
 
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-![Imagen de un gato](https://static.nationalgeographic.es/files/styles/image_3200/public/nationalgeographic_1468962.webp?w=1600&h=900)
